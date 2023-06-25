@@ -1,2 +1,2 @@
 # SunTrackingSolarPanel
-Sun tracking solar panel - singe axis
+Sun tracking solar panel - single axis
